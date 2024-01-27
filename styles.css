@@ -13,9 +13,9 @@ header {
 }
 
 header img {
-    border-radius: auto; /* Make the image circular */
-    max-width: auto; /* Adjust the maximum width as needed */
-    height: auto;
+    border-radius: 50%; /* Make the image circular */
+    max-width: 50%; /* Adjust the maximum width as needed */
+    height: 50%;
     margin-bottom: auto;
 }
 
